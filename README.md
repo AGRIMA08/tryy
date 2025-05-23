@@ -11,7 +11,7 @@
 **Note on Deployment:**
 Due to technical limitations with PyAudio—which requires direct access to system audio devices—this app cannot be deployed on most cloud platforms. However, it works reliably on local machines.
 
-**Development Time:** Built in approximately 2 hours.
+**Development Time:** Built in approximately 2 hours as that was the time alloted to build a project.
 
 ---
 
